@@ -4,7 +4,7 @@ A fully responsive **Netflix UI clone** built entirely with just **HTML** and **
 
 
 ## 📸 Preview
-netflix.png
+(netflix.png)
 
 ## 🌟 Features
 
