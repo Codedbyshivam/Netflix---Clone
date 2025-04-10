@@ -2,7 +2,8 @@
 
 A fully responsive **Netflix UI clone** built entirely with just **HTML** and **CSS**. This project recreates the look and feel of Netflix’s homepage including the navbar, hero banner, movie sliders, and dark theme styling.
 
-
+## 📸 Preview
+![Netflix Clone Preview](assets/images/netflix.png)
 
 
 ## 🌟 Features
